@@ -43,5 +43,8 @@ It relies on the [automatic-releases](https://github.com/marketplace/actions/aut
 
 ## Change Log
 
+### v2.0.0
+- brand new major version
+
 ### v1.0.0
 - initial commit
