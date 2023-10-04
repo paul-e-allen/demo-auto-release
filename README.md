@@ -43,6 +43,9 @@ It relies on the [automatic-releases](https://github.com/marketplace/actions/aut
 
 ## Change Log
 
+### v2.1.1
+- patch version
+
 ### v2.1.0
 - minor version
 
